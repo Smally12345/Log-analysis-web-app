@@ -1,0 +1,9 @@
+.AppHeader {
+    background-image: linear-gradient(180deg,rgba(255,218,164,0.8) 0%,#ffffff 100%)!important;
+    color: #333;
+    background-blend-mode: overlay;
+    padding-top: 5%;
+    padding-bottom: 10%;
+    font-family:"Times New Roman";
+    /* display: block; */
+}
